@@ -1,0 +1,15 @@
+{
+    "name": "alirezax5/age-telegram",
+    "autoload": {
+        "psr-4": {
+            "alirezax5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alirezax5",
+            "email": "alirezaaghax6@gmail.com"
+        }
+    ],
+    "require": {}
+}
